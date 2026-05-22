@@ -1,6 +1,6 @@
-# Compiler + Virtual Machine (100% curriculum)
+# Compiler + Virtual Machine
 
-## Pipeline (Images 2–10)
+## Pipeline
 
 ```
 Source
